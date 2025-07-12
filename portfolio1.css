@@ -59,3 +59,30 @@
     font-size: 245%;
     font-family
  }
+ .A10,.A12{
+   text-align: CENTER;
+   color:darkgreen;
+   transition: all 1s;
+   margin: 15px;
+   padding: 20px;
+   border: 6px solid black;
+   border-radius: 30px;
+   border-backgroundcolor: black;
+ }
+ .A10:hover{
+   text-replace: 10th;
+   font-size: 30px;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ .A12:hover{
+   text-replace: 10th;
+   font-size: 30px;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+ .HO{
+   text-align: center;
+   color: crimson;
+   font-size: 25PX;
+ }
+
+
