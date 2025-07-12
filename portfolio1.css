@@ -59,7 +59,7 @@
     font-size: 245%;
     font-family
  }
- .A10,.A12{
+ .A10,.A12,.GRADUATION{
    text-align: CENTER;
    color:darkgreen;
    transition: all 1s;
@@ -84,5 +84,12 @@
    color: crimson;
    font-size: 25PX;
  }
+ 
+ .GRADUATION:hover{
+   text-replace: 10th;
+   font-size: 40px;
+   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+ }
+
 
 
